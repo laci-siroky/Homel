@@ -1,2 +1,2 @@
 # Homel
-MicroBit projects
+AVR projects
